@@ -1,0 +1,1 @@
+# Streamlit-App-Number_plate_detection-_-_text_extraction-with-list-database-
