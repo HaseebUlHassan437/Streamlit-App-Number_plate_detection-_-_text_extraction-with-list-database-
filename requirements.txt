@@ -203,3 +203,5 @@ wrapt==1.14.1
 yolo==0.3.1
 yolov5==7.0.13
 yolov8==0.0.2
+easyocr
+kivy-deps-angle==0.3.3
